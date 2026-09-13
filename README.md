@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/32166118/README.md)
 # time-series-forecasting-capstone
 
-**SDAIA Academy — Time Series Forecasting for AI Systems, [REPLACE WITH ACTUAL COHORT DATES]**
+**SDAIA Academy — Time Series Forecasting for AI Systems, January 2026 – June 2026**
 
 **Author:** Nawaf Abdullah Alsayari
 **GitHub:** [NawafAlsayari](https://github.com/NawafAlsayari)
