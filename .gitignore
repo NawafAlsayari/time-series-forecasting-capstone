@@ -1,0 +1,23 @@
+# Python / notebook artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Generated / temp files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Model / cache and any environment files that could hold credentials
+.env
+.env.*
+*.pem
+*.key
+*.secret
+.venv/
+venv/
+
+# Keep notebooks' captured outputs out of accidental commits unless intended
+# (deliberately NOT ignoring *.ipynb — capstone.ipynb is the deliverable)
